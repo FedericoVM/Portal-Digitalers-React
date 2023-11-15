@@ -1,0 +1,24 @@
+.container-comentarios{
+    background-color: #ebeef1;
+    color: rgb(51, 52, 53);
+}
+
+
+.container-comentarios div.tarjetas div.card{
+    background-color: black;
+}
+
+.agregar-comentario, .titulo-comentarios {
+    color:#444444;
+}
+.img-avatar{
+    width: 5rem;
+}
+
+h6.email{
+    font-size: 1.1rem;
+}
+
+p.parrafo-comentario{
+    color: #444444;
+}

@@ -1,0 +1,33 @@
+.logo {
+   width: 3.5rem;
+}
+
+#nav-bar {
+   backdrop-filter: blur(10px) saturate(176%);
+   -webkit-backdrop-filter: blur(4px) saturate(176%);
+   background-color: rgba(17, 25, 40, 0.33);
+}
+
+#boton-nav {
+   background-color: #f9fdfbb2;
+}
+
+.offcanvas-body {
+   font-size: 1.2rem;
+}
+
+.offcanvas-body .texto-navbar {
+   text-decoration: none;
+   font-size: 1rem;
+   color: #2398f8;
+}
+
+.offcanvas-body .texto-navbar:hover {
+   color: #75a4ca;
+}
+
+.offcanvas-body .texto-navbar:active{
+   color: rgb(213, 214, 214);
+}
+
+

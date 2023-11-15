@@ -1,0 +1,88 @@
+{
+    "listaNoticias": [
+        {
+            "titulo": "Telecom lanza 1.500 becas para que aprender programación",
+            "url_imagen": "https://www.clarin.com/img/2023/04/11/BWQmcS0M7_1256x620__1.jpg",
+            "descripcion": "Telecom lanzó una nueva convocatoria de su programa de cursos gratuitos de programación y oficios digitales para mayores de 18 años.",
+            "dd-mm-yy": "11/04/2023"
+        },
+        {
+            "titulo": "Trabajos tech en Argentina: cuál es el sueldo promedio y qué puestos se pagan mejor",
+            "url_imagen": "https://www.clarin.com/img/2022/11/10/h8vpmN9Fr_1256x620__1.jpg",
+            "descripcion": "Una encuesta de OpenQube (Sysarmy) revela que un 34% del sector IT tiene su salario dolarizado. Aumentos y carreras más buscadas.",
+            "dd-mm-yy": "25/07/2023"
+        },
+        {
+            "titulo": "Google se lanza a escribir noticias con inteligencia artificial",
+            "url_imagen": "https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2023/07/20/google-2-U71314217643JCz-268x188@abc.jpg",
+            "descripcion": "Según explican desde la tecnológica a ABC, también podrían sugerir titulares y mejorar el estilo del periodista",
+            "dd-mm-yy": "21-07-2023"
+        },
+        {
+            "titulo": "Ingeniero de Prompt, la carrera que nace por el furor de ChatGPT: de qué se trata y cuánto se puede ganar",
+            "url_imagen": "https://www.clarin.com/img/2023/04/25/XEWM7iFcm_1256x620__1.jpg",
+            "descripcion": "Estos nuevos profesionales se especializan en la creación de contenido para sistemas de inteligencia artificial y chatbots.",
+            "dd-mm-yy": "17/07/2023"
+        },
+        {
+            "titulo": "Regalan hasta $500.000 a los programadores que quieran seguir estudiando: cómo acceder",
+            "url_imagen": "https://www.clarin.com/img/2021/01/20/jfBH7QvON_1256x620__1.jpg",
+            "descripcion": "Tendrán prioridad aquellas personas que no estén trabajando. La inscripción arranca hoy, quiénes pueden anotarse.",
+            "dd-mm-yy": "17/07/1994"
+        },
+        {
+            "titulo": "Trabajar en tecnología: lanzan un portal para jóvenes que buscan su primer empleo en el sector",
+            "url_imagen": "https://www.clarin.com/img/2022/03/14/PEEWkiBC1_1256x620__1.jpg",
+            "descripcion": "La plataforma, desarrollada por CESSI, está apuntada a estudiantes de programación full stack, ingeniería o sistemas, entre otros.",
+            "dd-mm-yy": "13/07/2023"
+        },
+        {
+            "titulo": "Argentina, entre las regiones donde más creció el desarrollo de software: más del 40% según GitHub",
+            "url_imagen": "https://www.clarin.com/img/2023/04/01/l_DPWr0MC_1256x620__1.jpg",
+            "descripcion": "La plataforma colaborativa de código publicó un reporte donde el país destaca por sobre el resto.",
+            "dd-mm-yy": "13/07/2023"
+        },
+        {
+            "titulo": "Meta presenta un traductor capaz de operar en tiempo real con 200 idiomas",
+            "url_imagen": "https://imagenes.elpais.com/resizer/-yIFptusu_vKc6oSDlZVb5IJlMo=/414x311/cloudfront-eu-central-1.images.arcpublishing.com/prisa/XNH4MA3X3SA5RXPHG4H2ZMDHJY.jpg",
+            "descripcion": "La compañía pretende que el sistema, apoyado en una tecnología puntera, impulse las conversaciones en sus redes sociales y en el futuro metaverso",
+            "dd-mm-yy": "06/07/2023"
+        },
+        {
+            "titulo": "Aprender realidad aumentada desde cero: cómo anotarse en la capacitación de Meta para jóvenes argentinos",
+            "url_imagen": "https://www.clarin.com/img/2022/12/02/H_KjsD4CR_1256x620__1.jpg",
+            "descripcion": "La compañía de Mark Zuckerberg anunció el lanzamiento de un nuevo programa. A quiénes está dirigido.",
+            "dd-mm-yy": "13/12/2022"
+        },
+        {
+            "titulo": "Harvard ofrece un curso gratis para hacer trabajo remoto",
+            "url_imagen": "https://www.cronista.com/files/image/484/484932/635a92f540447_950_534!.webp?s=07ec0b8eb52b1b82bd8de0b4487f46a7&d=1666880537&oe=jpg",
+            "descripcion": "La prestigiosa universidad de EE.UU. brinda un curso gratuito de programación que tiene corta duración. Cuáles son las principales características de la cursada.",
+            "dd-mm-yy": "11/05/2023"
+        },
+        {
+            "titulo": "ChatGPT ya sabe hablar e interpretar tus fotografías",
+            "url_imagen": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2023/09/25/chatgpt-U08558710646vcV-758x424@abc.jpg",
+            "descripcion": "OpenAI ha anunciado la llegada de dos funcionalidades muy interesantes que estarán disponibles en las próximas semanas para los",
+            "dd-mm-yy": "11/05/2023"
+        },
+        {
+            "titulo": "El ChatGPT de Google se vuelve más inteligente: estas son todas las novedades que han llegado hoy a Bard",
+            "url_imagen": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2023/09/19/bard-ai-U33764014342zZY-268x188@abc.jpg",
+            "descripcion": "El robot conversacional movido por IA recibe extensiones con plataformas como GMail y Youtube que permite al usuario utilizar la plataforma de una forma más ágil y eficiente",
+            "dd-mm-yy": "11/05/2023"
+        },
+        {
+            "titulo": "Apple invierte millones de dólares cada día en crear su propio ChatGPT",
+            "url_imagen": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2023/09/07/apple-efe-U48061631168CWq-268x188@abc.jpg",
+            "descripcion": "La empresa también estaría desarrollando una inteligencia artificial capaz de generar imágenes",
+            "dd-mm-yy": "19/09/2023"
+        },
+        {
+            "titulo": "Filtran el 'gadget' más esperado de Apple desde el iPhone: esto es todo lo que sabemos",
+            "url_imagen": "https://www.cronista.com/files/image/484/484932/635a92f540447_950_534!.webp?s=07ec0b8eb52b1b82bd8de0b4487f46a7&d=1666880537&oe=jpg",
+            "descripcion": "El visor Reality Pro tendría un precio de 3.000 dólares y se controlarán con las manos, de acuerdo con 'Bloomberg'",
+            "dd-mm-yy": "11/05/2023"
+        }
+    ]
+}

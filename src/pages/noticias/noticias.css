@@ -1,0 +1,19 @@
+.titulo-noticias{
+    height: 50vh;
+    background: linear-gradient(rgba(4, 54, 119, 0.658), rgba(15, 63, 153, 0.5)),url("../../assets/img/noticias/noticias-bg.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.titulo-noticias h1{
+    color: #f9fdfbb2;
+}
+
+.titulo-noticias p{
+    font-size: 1.5rem;
+}
+
+.noticias{
+    background: linear-gradient(rgba(1, 36, 82, 0.959), rgb(12, 12, 12));
+}

@@ -1,0 +1,53 @@
+#somos-portal{
+    padding-top: 8rem;
+}
+
+#empresa{
+    height: 15rem;
+    background: linear-gradient(91.73deg,rgba(0, 37, 116, 0.6),rgba(40, 62, 90, 0.6)), url("../../assets/img/nosotros/bg-empresa.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+
+.nosotros{
+    min-height: 100vh;
+}
+
+.proposito{
+    
+    border: 3px solid rgb(8, 135, 240);
+    border-style: inset;
+}
+
+.proposito:hover{
+    border: 3px solid rgb(146, 188, 223);
+    border-style: inset;
+}
+
+#compromiso{
+    background-color: #c4c4c4;
+}
+
+#contenedor-body-card{
+    background-color: #EBECF1;
+    border-right: 4px solid rgb(9, 71, 146);
+    border-radius: 12px;
+   
+}
+
+.titulo-card{
+    font-size: 2rem;
+}
+
+.card-nosotros{
+
+}
+
+.card-nosotros .card-title{
+    font-size: 1.6rem;
+    
+}
+
+.card-nosotros .card-body{
+    font-size: 1rem;
+}

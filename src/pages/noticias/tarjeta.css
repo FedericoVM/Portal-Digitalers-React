@@ -1,0 +1,35 @@
+#tarjeta {
+    height: 23rem;
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(17, 25, 40, 0.75);
+    border-radius: 12px;
+    border: 2px solid rgba(1, 134, 243, 0.404);
+}
+
+.titulo-card{
+
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2
+}
+
+.link-card{
+    font-size: 1.5rem;
+}
+
+.link-card:hover{
+    color: rgb(121, 185, 228);
+}
+
+.parrafo-card{
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3
+}
+
+.img-card{
+    height: 50%;
+}

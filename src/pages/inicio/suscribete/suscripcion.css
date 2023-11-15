@@ -1,0 +1,23 @@
+.contenedor-suscripcion{
+    background: linear-gradient(rgba(2, 32, 71, 0.829), rgba(24, 23, 23, 0.493)), url("../../../assets/img/suscripcion/new-bg.jpg");
+    background-position:  center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+
+.suscripcion h2 span{
+    color: #1f96f8;
+    font-weight: bold;
+}
+
+#btn-suscribirse:hover{
+        background: #1f96f8;
+        border: rgb(212, 212, 212);
+        color: #052641;
+        transition: all 1s ease;
+
+}
+
+

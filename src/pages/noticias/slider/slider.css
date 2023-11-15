@@ -1,0 +1,29 @@
+
+.carousel-item{
+    width: 100vw;
+    height: 32rem;
+    max-height: 32rem;
+}
+
+.item-1{
+    background-image: linear-gradient(rgba(29, 28, 28, 0.671), rgba(29, 28, 28, 0.671)), url("../../../assets/img/carusel/img-1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.item-2{
+    background-image: linear-gradient(rgba(29, 28, 28, 0.671), rgba(29, 28, 28, 0.671)),  url("../../../assets/img/carusel/img-2.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.item-3{
+    background-image: linear-gradient(rgba(29, 28, 28, 0.671), rgba(29, 28, 28, 0.671)),  url("../../../assets/img/carusel/img-3.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+
+.texto-carousel{
+    color: whitesmoke;
+}

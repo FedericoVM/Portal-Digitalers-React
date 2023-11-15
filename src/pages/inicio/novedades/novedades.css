@@ -1,0 +1,16 @@
+#novedades{
+    background-color: #EBECF1;
+    height: 17rem;
+}
+
+#novedades h2{
+    font-size: 3.6rem;
+    font-weight: 400;
+    color: #068FFF;
+}
+
+#novedades p {
+    font-size: 24px;
+    color: #068FFF;
+}
+
